@@ -1,11 +1,14 @@
 AIM:
 	To sketch the given drawing with dimensions using fusion 360 tool.
+	
 REQUIREMENTS:
 1. Autodesk fusion 360
 2. Windows 10
 3. 16GB of RAM (integrated graphics recommend 2 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload
+   
 PROCEDURE:
+
 1. Open a new file and then select the sketch icon.
 2. Select the plane of sketching.
 3. Use Sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw to given sketch
