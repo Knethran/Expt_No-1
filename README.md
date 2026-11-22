@@ -10,6 +10,7 @@ PROCEDURE:
 2. Select the plane of sketching.
 3. Use Sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw to given sketch
 <img width="331" height="532" alt="Screenshot 2026-10-05 105221" src="https://github.com/user-attachments/assets/3b52619b-817e-4ff0-9681-603d751cf23e" />
+
 4. Use sketch modifying features (trim, mirror, move, etc.,) to edit the sketch
 <img width="223" height="338" alt="Screenshot 2026-10-05 105834" src="https://github.com/user-attachments/assets/3290a109-21c2-42cf-b843-66f2e367f629" />
 5. Use the Constraints feature and apply the Tangent tool to join the circles smoothly and create the required curves.
