@@ -37,41 +37,54 @@ PROCEDURE:
 23. The finished sketch should look like this. 
 24. Line – Used to draw the straight edges of the diagram.
     Circle – Used to create the circular holes/features in the diagram.
+    
     <img width="62" height="61" alt="Screenshot 2026-10-07 154509" src="https://github.com/user-attachments/assets/1b9c5306-2c37-446e-bdc8-c7c17a3cdc70" />
 	
     <img width="60" height="66" alt="Screenshot 2026-10-07 152303" src="https://github.com/user-attachments/assets/92369aab-6367-4126-a967-c8fbf8450a8f" />
 	
-25. Trim – Used to remove unwanted portions. 
+26. Trim – Used to remove unwanted portions.
+    
     <img width="50" height="55" alt="Screenshot 2026-10-07 154758" src="https://github.com/user-attachments/assets/0dbf5b3e-7ee4-4b3d-91a1-973204b2b4bd" />
 	
-26. Tangent – Used to create smooth contact between the required lines/circles. 
+28. Tangent – Used to create smooth contact between the required lines/circles.
+    
     <img width="57" height="60" alt="Screenshot 2026-10-07 154950" src="https://github.com/user-attachments/assets/d1a35248-d1e8-4d18-8cae-1bf4ccf7a2d6" />
 	
-27. Dimension – Used to apply the given measurements. 
+30. Dimension – Used to apply the given measurements.
+    
     <img width="62" height="51" alt="Screenshot 2026-10-07 155120" src="https://github.com/user-attachments/assets/1deb67ad-ad0d-4d85-bbef-cea56d86f169" />
 	
-28. Mirror – Used to create a symmetrical copy of the selected part on the opposite side of the diagram. 
+32. Mirror – Used to create a symmetrical copy of the selected part on the opposite side of the diagram.
+     
       <img width="61" height="57" alt="Screenshot 2026-10-07 155240" src="https://github.com/user-attachments/assets/978e6e73-9aa6-4ccf-9bbe-7552256ef764" />
 	  
-29. After finishing the sketch, click the Finish Sketch option to complete the sketch. 
+34. After finishing the sketch, click the Finish Sketch option to complete the sketch.
+    
     <img width="137" height="100" alt="Screenshot 2026-10-07 155355" src="https://github.com/user-attachments/assets/53932edc-b3c7-4948-bc2c-88eee5b55706" />
 	
-30. After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
+36. After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
+    
     <img width="332" height="432" alt="Screenshot 2026-10-05 160007" src="https://github.com/user-attachments/assets/0f3d3c49-f001-4041-af78-c628439fbd29" />
 	
-31. Then, open the From Design model, save the file, select the Manual option, and click OK to open the drawing in ISO standard mode. 
+38. Then, open the From Design model, save the file, select the Manual option, and click OK to open the drawing in ISO standard mode.
+    
     <img width="530" height="606" alt="Screenshot 2026-10-05 160447" src="https://github.com/user-attachments/assets/37771b5b-4f02-4f7e-b7f7-5a438d25fd88" />
 	
-32. After opening the drawing in ISO Standard mode, change the scale ratio to 1:0.9. Then, use the Dimension tool to add all the required dimensions according to the uploaded sketch.
+40. After opening the drawing in ISO Standard mode, change the scale ratio to 1:0.9. Then, use the Dimension tool to add all the required dimensions according to the uploaded sketch.
+    
     <img width="257" height="547" alt="Screenshot 2026-10-05 161022" src="https://github.com/user-attachments/assets/d7e110e2-b7eb-48c4-945d-34c0db6b0899" />
 	
 
 SKETCHES:
+
+
+ ㅤㅤㅤㅤㅤ
     <img width="675" height="727" alt="Screenshot 2026-10-05 111211" src="https://github.com/user-attachments/assets/669c746b-f36f-4e6b-ae6d-2432cafe7321" />
 	
 
 OUTPUT:
+ㅤㅤㅤㅤ
     <img width="1067" height="762" alt="Screenshot 2026-10-05 160812" src="https://github.com/user-attachments/assets/5929dc75-72e3-41a6-ab7c-66f7cdd60e4b" />
-	
+	ㅤㅤㅤ
     <img width="1442" height="376" alt="Screenshot 2026-10-05 161820" src="https://github.com/user-attachments/assets/c0ea7905-8a37-4bfc-8eba-950a22e0e845" />
 
