@@ -93,3 +93,9 @@ OUTPUT:
 	ㅤㅤㅤ
     <img width="1442" height="376" alt="Screenshot 2026-10-05 161820" src="https://github.com/user-attachments/assets/c0ea7905-8a37-4bfc-8eba-950a22e0e845" />
 
+RESULT:
+
+ㅤ
+	Thus the given sketch is drawn and drafted using the Fusion 360 tool.
+
+
